@@ -256,16 +256,16 @@
 </h1>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dhhairya5&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Dhhairya's GitHub stats" height="170em" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dhhairya5&layout=compact&theme=tokyonight&langs_count=8&hide=jupyter%20notebook" alt="Top Langs" height="170em" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aman7&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Aman's GitHub stats" height="170em" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aman7&layout=compact&theme=tokyonight&langs_count=8&hide=jupyter%20notebook" alt="Top Langs" height="170em" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhhairya5&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman7&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhhairya5&theme=tokyonight" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aman7&theme=tokyonight" alt="Profile Details" />
 </div>
 
 <!--<div align="center">
@@ -274,7 +274,7 @@
 
 <!-- ACTIVITY GRAPH -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhhairya5&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aman7&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </div>
 
 
@@ -309,5 +309,5 @@
   <br>
   
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-    <h3>"You miss 100% of shots you don't take."</h3>
+    <h3>"You miss 100% of the shots you don't take."</h3>
   <p>— Aman Singh ✨</p>
