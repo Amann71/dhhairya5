@@ -285,7 +285,7 @@
   <a href="https://twitter.com/dhhairya_07" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhhairya_07" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/dhhairya-shukla-58291a23b/" target="blank">
+  <a href="https://www.linkedin.com/in/aman-singh-38348821b//" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://www.instagram.com/dhairyashuklaa/" target="blank">
@@ -294,7 +294,7 @@
   <a href="https://www.hackerrank.com/profile/dhhairyashukla5" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/u/dhhairyashukla7/" target="blank">
+  <a href="https://leetcode.com/u/Aman_Singh71//" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
   <a href="https://www.geeksforgeeks.org/user/dhhairya5/" target="blank">
@@ -309,5 +309,5 @@
   <br>
   
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-    <h3>"Dreams don’t chase you back — run faster."</h3>
-  <p>— Dhhairya Shukla ✨</p>
+    <h3>"You miss 100% of shots you don't take."</h3>
+  <p>— Aman Singh ✨</p>
