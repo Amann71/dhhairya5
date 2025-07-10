@@ -224,17 +224,17 @@
   <div class="achievement-column">
     <h3>🏆 Technical Achievements</h3>
     <ul>
-      <li>Top 8 Finalist - Bit By Bit Hackathon at VIT Bhopal University</li>
-      <li>Winner of E-Summit 24 Organized by K J Somaiya Institute of Management</li>
+      <li>She Builds hackathon: Designed innovative solutions</li>
+      <li>Engaged in innovation-driven activities at Srijan 2023, Jaipuria Institute of Management.</li>
     </ul>
   </div>
   
   <div class="achievement-column">
     <h3>👨‍💻 Leadership</h3>
     <ul>
-      <li>Technical Lead - Android Club (Organized 10+ workshops)</li>
-      <li>Core Member - AdVITya'24 Fest Organizing Committee</li>
-      <li>Led NSS Blood Donation Drive - 350+ donors</li>
+      <li>Team Collaboration & Initiative – Took charge as a designer in a 48-hour hackathon</li>
+      <li>Event Participation & Coordination – Participated in Srijan 2023, engaging in innovation-focused activities</li>
+      <li>Project Ownership – Led the design and implementation of Red Cell Network, a web-based blood bank system</li>
     </ul>
   </div>
   
