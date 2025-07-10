@@ -174,7 +174,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/VIT_Bhopal_University-FF6600?style=for-the-badge&logo=academia&logoColor=white" alt="VIT Bhopal"/>
   <p><strong>Bachelor of Technology in Computer Science & Engineering</strong></p>
-  <p><em>2021 - 2025 | CGPA: 8.34/10.0</em></p>
+  <p><em>2021 - 2025 </em></p>
   
   <details>
     <summary><b>Key Coursework</b></summary>
