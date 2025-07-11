@@ -202,8 +202,8 @@
       </td>
       <td align="center">
         <a href="https://drive.google.com/file/d/1iEV-EEvv3c_U-Qj5XxE4NIvYLYl_x2CW/view?usp=sharing"><img width="70px" src="https://img.shields.io/badge/GC-4285F4?style=for-the-badge" /></a>
-        <p>Artificial Intelligence Fundamentals</p>
-        <p><em>Cognitive Class/em></p>
+        <p>Machine Learning with Pythons</p>
+        <p><em>Cognitive Class</em></p>
       </td>
       <td align="center">
         <a href="https://drive.google.com/file/d/1uFckikgMPcByewWeN9W2keCkUZV-2jN9/view?usp=drivesdk"><img width="70px" src="https://courses.cognitiveclass.ai/certificates/7ae41f5eb383437091e7d027616c5967" /></a>
