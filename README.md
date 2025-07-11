@@ -92,39 +92,48 @@
 </div>
 
 <details>
-  <summary><b>🔐 Suraksha Setu - Disaster Management Platform</b></summary>
+  <summary><b>Red Cell Network - Blood Bank Management System</b></summary>
   <div>
     <div align="center">
-      <a href="https://suraksha-setu-flax.vercel.app" target="_blank">
+      <a href="https://your-live-demo-link.com" target="_blank">
         <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
       </a>
-      <a href="https://github.com/dhhairya5/Suraksha-Setu" target="_blank">
+      <a href="https://https://github.com/Amann71/Red-Cell-Network" target="_blank">
         <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
       </a>
       <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Google_Maps_API-4285F4?style=flat-square&logo=google-maps&logoColor=white" />
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       </p>
     </div>
-    <h4>About:</h4>
-    <p>A comprehensive safety platform that connects victims with nearby volunteers and emergency services during crisis situations.</p>
-    <h4>Key Features:</h4>
-    <ul>
-      <li>Real-time location tracking with geofencing</li>
-      <li>SOS alert system with one-tap activation</li>
-      <li>Volunteer network management with verification</li>
-      <li>Resource allocation during disaster management</li>
-      <li>Emergency contact system with automated notifications</li>
-    </ul>
-    <h4>Impact:</h4>
-    <ul>
-      <li>Reduced emergency response time by 50%</li>
-      <li>Increased volunteer coordination efficiency by 45%</li>
-      <li>Currently serving 500+ users across 3 cities</li>
-    </ul>
   </div>
+</details>
+    </div>
+<h4>About:</h4>
+<p>
+  A web-based Blood Bank Management System designed to streamline blood donation, storage, and distribution processes. It connects donors, hospitals, and blood banks on a single platform for efficient coordination.
+</p>
+
+<h4>Key Features:</h4>
+<ul>
+  <li>Online donor registration and management system</li>
+  <li>Real-time inventory tracking for blood availability</li>
+  <li>Automated notifications for urgent blood requirements</li>
+  <li>Search functionality to find donors based on blood group and location</li>
+  <li>Secure user authentication for hospitals and administrators</li>
+</ul>
+
+<h4>Impact:</h4>
+<ul>
+  <li>Improved efficiency in blood bank operations</li>
+  <li>Minimized manual errors in inventory management</li>
+  <li>Enabled faster communication during emergencies</li>
+</ul>
+</div>
 </details>
 
 <details>
