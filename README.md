@@ -37,7 +37,7 @@
   <tr>
     <td><b>Languages</b></td>
     <td>
-      <img src="https://img.shields.io/badge/C++-FF4C4C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+     <img src="https://img.shields.io/badge/Java-FF2B2B?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
       <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -67,7 +67,6 @@
   <tr>
     <td><b>Tools & Others</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
       <img src="https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="MS Excel" />
      <img src="https://img.shields.io/badge/UI%2FUX-8E44AD?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX" />
