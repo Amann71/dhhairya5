@@ -196,17 +196,17 @@
   <table>
     <tr>
       <td align="center">
-        <a href="https://drive.google.com/file/d/1xAMZ1ERqvCDsZcDqYvmSmXslvG5EXyxu/view?usp=drivesdk"><img src="https://img.shields.io/badge/IBM%20SkillsBuild-054ADA?style=for-the-badge&logo=ibm&logoColor=white" /></a>
+        <a href="https://drive.google.com/file/d/1xAMZ1ERqvCDsZcDqYvmSmXslvG5EXyxu/view?usp=drivesdk"><img src="https://img.shields.io/badge/Artificial_Intelligence_Fundamentals-8E44AD?style=for-the-badge&logo=openai&logoColor=white" alt="AI Fundamentals" /></a>
         <p>Artificial Intelligence Fundamentals</p>
         <p><em>IBM SkillsBuild</em></p>
       </td>
       <td align="center">
-        <a href="https://drive.google.com/file/d/1KM3PY9G39Ye4OabT7NYnj-0iy9H0hiqf/view?usp=drivesdk"><img src="https://img.shields.io/badge/Machine%20Learning%20with%20Python-0A66C2?style=for-the-badge&logo=python&logoColor=white" />></a>
+        <a href="https://drive.google.com/file/d/1KM3PY9G39Ye4OabT7NYnj-0iy9H0hiqf/view?usp=drivesdk"><img src="https://img.shields.io/badge/Machine_Learning_with_Python-32CD32?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning with Python" />></a>
         <p>Machine Learning with Pythons</p>
         <p><em>Cognitive Class</em></p>
       </td>
       <td align="center">
-        <a href="https://drive.google.com/file/d/1uFckikgMPcByewWeN9W2keCkUZV-2jN9/view?usp=drivesdk"><img src="https://img.shields.io/badge/Cloud%20Computing-0A66C2?style=for-the-badge&logo=icloud&logoColor=white" /></a>
+        <a href="https://drive.google.com/file/d/1uFckikgMPcByewWeN9W2keCkUZV-2jN9/view?usp=drivesdk"><img src="https://img.shields.io/badge/Cloud_Computing-1E90FF?style=for-the-badge&logo=icloud&logoColor=white" alt="Cloud Computing" /></a>
         <p>Cloud Computing</p>
         <p><em>IBM</em></p>
       </td>
