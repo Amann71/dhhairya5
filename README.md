@@ -83,12 +83,21 @@
 </h1>
 
 <div align="center">
+  <!-- Red Cell Network -->
   <a href="https://github.com/Amann71/Red-Cell-Network">
     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Amann71&repo=Red-Cell-Network&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="Red-Cell-Network" />
   </a>
+  <p>
+    <b>Red Cell Network</b> – A web-based Blood Bank Management System built with Django and SQLite. It streamlines blood donation, storage, and distribution by connecting donors, hospitals, and blood banks in real time.
+  </p>
+
+  <!-- Customer Segmentation -->
   <a href="https://github.com/Amann71/Customer-Segmentation">
     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Amann71&repo=Customer-Segmentation&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="Customer-Segmentation" />
   </a>
+  <p>
+    <b>Customer Segmentation</b> – A Machine Learning project using K-Means clustering to analyze customer behavior and segment them into groups for targeted marketing strategies.
+  </p>
 </div>
 
 
