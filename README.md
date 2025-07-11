@@ -203,10 +203,10 @@
       <td align="center">
         <a href="https://drive.google.com/file/d/1iEV-EEvv3c_U-Qj5XxE4NIvYLYl_x2CW/view?usp=sharing"><img width="70px" src="https://img.shields.io/badge/GC-4285F4?style=for-the-badge" /></a>
         <p>Cloud Computing Foundations</p>
-        <p><em>Google</em></p>
+        <p><em>Cognitive Class/em></p>
       </td>
       <td align="center">
-        <a href="https://drive.google.com/file/d/16JbQy62WQIG-iZ1dcbBI8l5lZSio22GY/view?usp=sharing"><img width="70px" src="https://img.shields.io/badge/NPTEL-0078D4?style=for-the-badge" /></a>
+        <a href="https://drive.google.com/file/d/1uFckikgMPcByewWeN9W2keCkUZV-2jN9/view?usp=drivesdk"><img width="70px" src="https://courses.cognitiveclass.ai/certificates/7ae41f5eb383437091e7d027616c5967" /></a>
         <p>Cloud Computing</p>
         <p><em>IIT Kharagpur</em></p>
       </td>
