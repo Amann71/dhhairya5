@@ -83,20 +83,37 @@
 </h1>
 
 <div align="center">
-  <!-- Red Cell Network -->
+  <!-- Row 1 -->
   <a href="https://github.com/Amann71/Red-Cell-Network">
     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Amann71&repo=Red-Cell-Network&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="Red-Cell-Network" />
   </a>
-  
-  <!-- Customer Segmentation -->
+  <p>
+    <b>Red Cell Network</b> – A web-based Blood Bank Management System built with Django and SQLite. It connects donors, hospitals, and blood banks to streamline blood donation and distribution processes.
+  </p>
+
   <a href="https://github.com/Amann71/Customer-Segmentation">
     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Amann71&repo=Customer-Segmentation&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="Customer-Segmentation" />
   </a>
-  
-  <!-- Notes App -->
+  <p>
+    <b>Customer Segmentation</b> – A Machine Learning project using K-Means clustering to segment customers for targeted marketing strategies and business insights.
+  </p>
+</div>
+
+<div align="center">
+  <!-- Row 2 -->
   <a href="https://github.com/Amann71/Notes-App">
     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Amann71&repo=Notes-App&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="Notes-App" />
   </a>
+  <p>
+    <b>Notes App</b> – A lightweight app built with HTML, CSS, and JavaScript that allows users to create, edit, and delete notes with Markdown support. Data is stored in the browser using LocalStorage.
+  </p>
+
+  <a href="https://github.com/Amann71/Heart-Disease-Prediction">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Amann71&repo=Heart-Disease-Prediction&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="Heart-Disease-Prediction" />
+  </a>
+  <p>
+    <b>Heart Disease Prediction</b> – A Machine Learning project that predicts heart disease likelihood using Scikit-learn models and healthcare datasets for early diagnosis support.
+  </p>
 </div>
 
 
@@ -223,6 +240,45 @@
     <ul>
       <li>Helps organize personal notes effectively</li>
       <li>Lightweight and runs directly in the browser</li>
+    </ul>
+  </div>
+</details>
+
+
+<details>
+  <summary><b>Heart Disease Prediction - Machine Learning Project</b></summary>
+  <div>
+    <div align="center">
+      <a href="https://your-live-demo-link.com" target="_blank">
+        <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+      </a>
+      <a href="https://github.com/Amann71/Heart-Disease-Prediction" target="_blank">
+        <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+      </a>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" />
+        <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+      </p>
+    </div>
+    <h4>About:</h4>
+    <p>
+      A Machine Learning project that predicts the likelihood of heart disease using healthcare data. Built with Python and Scikit-learn, this system applies classification algorithms to assist in early diagnosis and preventive healthcare strategies.
+    </p>
+    <h4>Key Features:</h4>
+    <ul>
+      <li>Data cleaning and preprocessing for optimal model performance</li>
+      <li>Implemented Logistic Regression and Random Forest algorithms</li>
+      <li>Model evaluation using accuracy, precision, and recall metrics</li>
+      <li>Visualized data insights with Matplotlib and Seaborn</li>
+    </ul>
+    <h4>Impact:</h4>
+    <ul>
+      <li>Helps in identifying high-risk patients for heart disease</li>
+      <li>Supports healthcare professionals in making informed decisions</li>
+      <li>Lightweight and easy-to-use Python notebook workflow</li>
     </ul>
   </div>
 </details>
