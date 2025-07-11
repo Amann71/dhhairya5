@@ -154,6 +154,45 @@
 </div>
 
 
+<details>
+  <summary><b>Heart Disease Prediction - Machine Learning Project</b></summary>
+  <div>
+    <div align="center">
+      <a href="https://your-live-demo-link.com" target="_blank">
+        <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+      </a>
+      <a href="https://github.com/Amann71/Heart-Disease-Prediction" target="_blank">
+        <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+      </a>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" />
+        <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+      </p>
+    </div>
+    <h4>About:</h4>
+    <p>
+      A Machine Learning project that predicts the likelihood of heart disease using healthcare data. Built with Python and Scikit-learn, this system applies classification algorithms to assist in early diagnosis and preventive healthcare strategies.
+    </p>
+    <h4>Key Features:</h4>
+    <ul>
+      <li>Data cleaning and preprocessing for optimal model performance</li>
+      <li>Implemented Logistic Regression and Random Forest algorithms</li>
+      <li>Model evaluation using accuracy, precision, and recall metrics</li>
+      <li>Visualized data insights with Matplotlib and Seaborn</li>
+    </ul>
+    <h4>Impact:</h4>
+    <ul>
+      <li>Helps in identifying high-risk patients for heart disease</li>
+      <li>Supports healthcare professionals in making informed decisions</li>
+      <li>Lightweight and easy-to-use Python notebook workflow</li>
+    </ul>
+  </div>
+</details>
+
+
 
 
 <details>
@@ -277,43 +316,7 @@
 </details>
 
 
-<details>
-  <summary><b>Heart Disease Prediction - Machine Learning Project</b></summary>
-  <div>
-    <div align="center">
-      <a href="https://your-live-demo-link.com" target="_blank">
-        <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
-      </a>
-      <a href="https://github.com/Amann71/Heart-Disease-Prediction" target="_blank">
-        <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
-      </a>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" />
-        <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-      </p>
-    </div>
-    <h4>About:</h4>
-    <p>
-      A Machine Learning project that predicts the likelihood of heart disease using healthcare data. Built with Python and Scikit-learn, this system applies classification algorithms to assist in early diagnosis and preventive healthcare strategies.
-    </p>
-    <h4>Key Features:</h4>
-    <ul>
-      <li>Data cleaning and preprocessing for optimal model performance</li>
-      <li>Implemented Logistic Regression and Random Forest algorithms</li>
-      <li>Model evaluation using accuracy, precision, and recall metrics</li>
-      <li>Visualized data insights with Matplotlib and Seaborn</li>
-    </ul>
-    <h4>Impact:</h4>
-    <ul>
-      <li>Helps in identifying high-risk patients for heart disease</li>
-      <li>Supports healthcare professionals in making informed decisions</li>
-      <li>Lightweight and easy-to-use Python notebook workflow</li>
-    </ul>
-  </div>
-</details>
+
 
 
 <!-- EDUCATION AND CERTIFICATIONS -->
