@@ -133,38 +133,41 @@
 
 
 <details>
-  <summary><b>🎨 PixelForge AI - AI-Powered Image Editing Platform</b></summary>
+  <summary><b>Red Cell Network - Blood Bank Management System</b></summary>
   <div>
     <div align="center">
-      <a href="https://pixel-forge-ai.vercel.app" target="_blank">
+      <a href="https://your-live-demo-link.com" target="_blank">
         <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
       </a>
-      <a href="https://github.com/dhhairya5/Pixel-Forge" target="_blank">
+      <a href="https://github.com/Amann71/Red-Cell-Network" target="_blank">
         <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
       </a>
       <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
-        <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white" />
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
       </p>
     </div>
     <h4>About:</h4>
-    <p>A SaaS application that leverages AI to provide advanced image editing capabilities with a simple, intuitive interface.</p>
+    <p>
+      A web-based Blood Bank Management System designed to streamline blood donation, storage, and distribution processes. It connects donors, hospitals, and blood banks on a single platform for efficient coordination.
+    </p>
     <h4>Key Features:</h4>
     <ul>
-      <li>AI-powered image restoration and enhancement</li>
-      <li>Object removal and background replacement</li>
-      <li>Image recoloring and style transfer</li>
-      <li>Subscription-based service with Stripe integration</li>
-      <li>Cloud storage for processed images</li>
+      <li>Online donor registration and management system</li>
+      <li>Real-time inventory tracking for blood availability</li>
+      <li>Automated notifications for urgent blood requirements</li>
+      <li>Search functionality to find donors based on blood group and location</li>
+      <li>Secure user authentication for hospitals and administrators</li>
     </ul>
-    <h4>Impact:</h4>
+  <h4>Impact:</h4>
     <ul>
-      <li>Improved user satisfaction by 30%</li>
-      <li>Reduced image processing time from hours to minutes</li>
-      <li>Acquired 200+ active users within first month</li>
+      <li>Improved efficiency in blood bank operations</li>
+      <li>Minimized manual errors in inventory management</li>
+      <li>Enabled faster communication during emergencies</li>
     </ul>
   </div>
 </details>
