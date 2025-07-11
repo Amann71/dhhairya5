@@ -77,48 +77,79 @@
 </table>
 
 <!-- PROJECTS SECTION -->
-<h1>
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
-  Featured Projects
-</h1>
+<h2>🚀 Featured Projects</h2>
 
 <div align="center">
-  <!-- Row 1 -->
-  <a href="https://github.com/Amann71/Red-Cell-Network">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Amann71&repo=Red-Cell-Network&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="Red-Cell-Network" />
-  </a>
-  <p>
-    <b>Red Cell Network</b> – A web-based Blood Bank Management System built with Django and SQLite. It connects donors, hospitals, and blood banks to streamline blood donation and distribution processes.
-  </p>
 
-  <a href="https://github.com/Amann71/Customer-Segmentation">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Amann71&repo=Customer-Segmentation&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="Customer-Segmentation" />
-  </a>
-  <p>
-    <b>Customer Segmentation</b> – A Machine Learning project using K-Means clustering to segment customers for targeted marketing strategies and business insights.
-  </p>
+  <!-- Heart Disease Prediction -->
+  <div align="center" style="display: inline-block; width: 400px; background: #1F222E; color: white; border-radius: 10px; padding: 15px; margin: 10px;">
+    <h3 style="color: #F85D7F;">❤️ Heart Disease Prediction</h3>
+    <p>
+      A Machine Learning project that predicts heart disease likelihood using Scikit-learn models and healthcare datasets for early diagnosis support.
+    </p>
+    <p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+    </p>
+    <a href="https://github.com/Amann71/Heart-Disease-Prediction" target="_blank">
+      🔗 View Source Code
+    </a>
+  </div>
+
+  <!-- Red Cell Network -->
+  <div align="center" style="display: inline-block; width: 400px; background: #1F222E; color: white; border-radius: 10px; padding: 15px; margin: 10px;">
+    <h3 style="color: #F85D7F;">🩸 Red Cell Network</h3>
+    <p>
+      A web-based Blood Bank Management System using Django and SQLite. Connects donors, hospitals, and blood banks for efficient coordination.
+    </p>
+    <p>
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+    </p>
+    <a href="https://github.com/Amann71/Red-Cell-Network" target="_blank">
+      🔗 View Source Code
+    </a>
+  </div>
+
 </div>
 
 <div align="center">
-  <!-- Row 2 -->
-  <a href="https://github.com/Amann71/Notes-App">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Amann71&repo=Notes-App&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="Notes-App" />
-  </a>
-  <p>
-    <b>Notes App</b> – A lightweight app built with HTML, CSS, and JavaScript that allows users to create, edit, and delete notes with Markdown support. Data is stored in the browser using LocalStorage.
-  </p>
 
-  <a href="https://github.com/Amann71/Heart-Disease-Prediction">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Amann71&repo=Heart-Disease-Prediction&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="Heart-Disease-Prediction" />
-  </a>
-  <p>
-    <b>Heart Disease Prediction</b> – A Machine Learning project that predicts heart disease likelihood using Scikit-learn models and healthcare datasets for early diagnosis support.
-  </p>
+  <!-- Customer Segmentation -->
+  <div align="center" style="display: inline-block; width: 400px; background: #1F222E; color: white; border-radius: 10px; padding: 15px; margin: 10px;">
+    <h3 style="color: #F85D7F;">📊 Customer Segmentation</h3>
+    <p>
+      A Machine Learning project using K-Means clustering to analyze customer behavior and segment them into groups for marketing strategies.
+    </p>
+    <p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+    </p>
+    <a href="https://github.com/Amann71/Customer-Segmentation" target="_blank">
+      🔗 View Source Code
+    </a>
+  </div>
+
+  <!-- Notes App -->
+  <div align="center" style="display: inline-block; width: 400px; background: #1F222E; color: white; border-radius: 10px; padding: 15px; margin: 10px;">
+    <h3 style="color: #F85D7F;">📝 Notes App</h3>
+    <p>
+      A simple Markdown-based notes app using HTML, CSS, and JavaScript with LocalStorage for offline support.
+    </p>
+    <p>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    </p>
+    <a href="https://github.com/Amann71/Notes-App" target="_blank">
+      🔗 View Source Code
+    </a>
+  </div>
+
 </div>
-
-
-
-
 
 
 
