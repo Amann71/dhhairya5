@@ -196,7 +196,7 @@
   <table>
     <tr>
       <td align="center">
-        <a href="https://drive.google.com/file/d/1xAMZ1ERqvCDsZcDqYvmSmXslvG5EXyxu/view?usp=drivesdk"><img width="70px" src="https://img.shields.io/badge/M-47A248?style=for-the-badge" /></a>
+        <a href="https://drive.google.com/file/d/1xAMZ1ERqvCDsZcDqYvmSmXslvG5EXyxu/view?usp=drivesdk"><img src="https://img.shields.io/badge/IBM%20SkillsBuild-054ADA?style=for-the-badge&logo=ibm&logoColor=white" /></a>
         <p>Artificial Intelligence Fundamentals</p>
         <p><em>IBM SkillsBuild</em></p>
       </td>
