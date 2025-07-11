@@ -4,7 +4,7 @@
   
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Aman;Full-Stack+Developer;AI+Enthusiast;Problem+Solver" alt="Typing SVG" />
   
-  <h3>Aspiring Software Engineer | MERN Stack Developer | AI Innovator</h3>
+  <h3>Aspiring Software Engineer | JAVA Developer | AI Innovator</h3>
 </div>
 
 <!-- BADGES -->
@@ -21,9 +21,9 @@
 <!-- Short Description -->
 
 🎓 B.Tech in Computer Science & Engineering from Shri Ramswaroop College Of Engineering and Management |  <br>
-💡 Enthusiastic about solving real-world problems through Full-Stack Development & AI-driven solutions <br>
+💡 Enthusiastic about solving real-world problems through Java-based software development  & AI-driven solutions <br>
 🚀 Currently building AI-powered productivity tools to streamline daily workflows <br>
-📚 Upskilling in Advanced React Patterns, AWS, and System Design to architect better software <br>
+📚 Upskilling in Advanced Java, AWS Cloud Services, and System Design to architect robust and efficient software systems <br>
 📬 Let’s connect: aman.singhhh900@gmail.com
 
 
