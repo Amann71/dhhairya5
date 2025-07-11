@@ -84,7 +84,7 @@
 </table>
 
 <!-- PROJECTS SECTION -->
-<h1 align="center">
+<h1 >
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
   <b>🌟 Featured Projects</b>
 </h1>
