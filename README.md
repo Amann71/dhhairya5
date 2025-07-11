@@ -77,80 +77,74 @@
 </table>
 
 <!-- PROJECTS SECTION -->
-<h2>🚀 Featured Projects</h2>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+  <b>🌟 Featured Projects</b>
+</h1>
 
 <div align="center">
 
-  <!-- Heart Disease Prediction -->
-  <div align="center" style="display: inline-block; width: 400px; background: #1F222E; color: white; border-radius: 10px; padding: 15px; margin: 10px;">
-    <h3 style="color: #F85D7F;">❤️ Heart Disease Prediction</h3>
+  <!-- ❤️ Heart Disease Prediction -->
+  <div align="center" style="display: inline-block; width: 420px; background: linear-gradient(135deg, #ff4b2b, #ff416c); color: white; border-radius: 15px; padding: 20px; margin: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
+    <h2>❤️ Heart Disease Prediction</h2>
     <p>
-      A Machine Learning project that predicts heart disease likelihood using Scikit-learn models and healthcare datasets for early diagnosis support.
+      🧠 Predicts heart disease likelihood using machine learning models (Logistic Regression, Random Forest). Built with Python, Scikit-learn, and healthcare datasets for early diagnosis support.
     </p>
     <p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
     </p>
-    <a href="https://github.com/Amann71/Heart-Disease-Prediction" target="_blank">
-      🔗 View Source Code
-    </a>
+    <a href="https://github.com/Amann71/Heart-Disease-Prediction" target="_blank" style="color: #ffffff; text-decoration: underline;">🔗 View Source Code</a>
   </div>
 
-  <!-- Red Cell Network -->
-  <div align="center" style="display: inline-block; width: 400px; background: #1F222E; color: white; border-radius: 10px; padding: 15px; margin: 10px;">
-    <h3 style="color: #F85D7F;">🩸 Red Cell Network</h3>
+  <!-- 🩸 Red Cell Network -->
+  <div align="center" style="display: inline-block; width: 420px; background: linear-gradient(135deg, #2193b0, #6dd5ed); color: white; border-radius: 15px; padding: 20px; margin: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
+    <h2>🩸 Red Cell Network</h2>
     <p>
-      A web-based Blood Bank Management System using Django and SQLite. Connects donors, hospitals, and blood banks for efficient coordination.
+      🌐 A web-based Blood Bank Management System using Django & SQLite. Connects donors, hospitals, and blood banks for efficient blood donation and inventory management.
     </p>
     <p>
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
     </p>
-    <a href="https://github.com/Amann71/Red-Cell-Network" target="_blank">
-      🔗 View Source Code
-    </a>
+    <a href="https://github.com/Amann71/Red-Cell-Network" target="_blank" style="color: #ffffff; text-decoration: underline;">🔗 View Source Code</a>
   </div>
 
 </div>
 
 <div align="center">
 
-  <!-- Customer Segmentation -->
-  <div align="center" style="display: inline-block; width: 400px; background: #1F222E; color: white; border-radius: 10px; padding: 15px; margin: 10px;">
-    <h3 style="color: #F85D7F;">📊 Customer Segmentation</h3>
+  <!-- 📊 Customer Segmentation -->
+  <div align="center" style="display: inline-block; width: 420px; background: linear-gradient(135deg, #56ab2f, #a8e063); color: white; border-radius: 15px; padding: 20px; margin: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
+    <h2>📊 Customer Segmentation</h2>
     <p>
-      A Machine Learning project using K-Means clustering to analyze customer behavior and segment them into groups for marketing strategies.
+      🤖 ML project using K-Means clustering to analyze customer data and group them for targeted marketing. Includes data preprocessing, outlier handling, and visualization.
     </p>
     <p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
     </p>
-    <a href="https://github.com/Amann71/Customer-Segmentation" target="_blank">
-      🔗 View Source Code
-    </a>
+    <a href="https://github.com/Amann71/Customer-Segmentation" target="_blank" style="color: #ffffff; text-decoration: underline;">🔗 View Source Code</a>
   </div>
 
-  <!-- Notes App -->
-  <div align="center" style="display: inline-block; width: 400px; background: #1F222E; color: white; border-radius: 10px; padding: 15px; margin: 10px;">
-    <h3 style="color: #F85D7F;">📝 Notes App</h3>
+  <!-- 📝 Notes App -->
+  <div align="center" style="display: inline-block; width: 420px; background: linear-gradient(135deg, #ee0979, #ff6a00); color: white; border-radius: 15px; padding: 20px; margin: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
+    <h2>📝 Notes App</h2>
     <p>
-      A simple Markdown-based notes app using HTML, CSS, and JavaScript with LocalStorage for offline support.
+      ✏️ A simple Markdown-based notes app built with HTML, CSS, and JavaScript. Allows users to create, edit, and delete notes, storing them in LocalStorage for offline use.
     </p>
     <p>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     </p>
-    <a href="https://github.com/Amann71/Notes-App" target="_blank">
-      🔗 View Source Code
-    </a>
+    <a href="https://github.com/Amann71/Notes-App" target="_blank" style="color: #ffffff; text-decoration: underline;">🔗 View Source Code</a>
   </div>
 
 </div>
-
 
 
 
