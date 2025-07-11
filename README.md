@@ -83,46 +83,54 @@
 </h1>
 
 <div align="center">
-  <a href="https://github.com/dhhairya5/Suraksha-Setu">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Deepankar2003&repo=Suraksha-Setu&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="Suraksha-Setu" />
+  <a href="https://github.com/Amann71/Red-Cell-Network">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Amann71&repo=Red-Cell-Network&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="Red-Cell-Network" />
   </a>
-  <a href="https://github.com/dhhairya5/Pixel-Forge">
-    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Deepankar2003&repo=PixelForge-AI&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="PixelForge-AI" />
+  <a href="https://github.com/Amann71/Customer-Segmentation">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Amann71&repo=Customer-Segmentation&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="Customer-Segmentation" />
   </a>
 </div>
+
+
+
 <details>
-  <summary><b>🎨 PixelForge AI - AI-Powered Image Editing Platform</b></summary>
+  <summary><b>Customer Segmentation - Machine Learning Project</b></summary>
   <div>
     <div align="center">
-      <a href="https://pixel-forge-ai.vercel.app" target="_blank">
+      <a href="https://your-live-demo-link.com" target="_blank">
         <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
       </a>
-      <a href="https://github.com/dhhairya5/Pixel-Forge" target="_blank">
+      <a href="https://github.com/Amann71/Customer-Segmentation" target="_blank">
         <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
       </a>
       <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-        <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" />
-        <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" />
+        <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white" />
       </p>
     </div>
-    <h4>About:</h4>
-    <p>A SaaS application that leverages AI to provide advanced image editing capabilities with a simple, intuitive interface.</p>
-    <h4>Key Features:</h4>
+
+   <h4>About:</h4>
+    <p>
+      A Machine Learning project that uses clustering algorithms to segment customers based on their purchasing behavior. It helps businesses identify target customer groups for personalized marketing strategies.
+    </p>
+
+  <h4>Key Features:</h4>
     <ul>
-      <li>AI-powered image restoration and enhancement</li>
-      <li>Object removal and background replacement</li>
-      <li>Image recoloring and style transfer</li>
-      <li>Subscription-based service with Stripe integration</li>
-      <li>Cloud storage for processed images</li>
+      <li>Data preprocessing and cleaning for high-quality analysis</li>
+      <li>Implemented K-Means clustering for customer grouping</li>
+      <li>Data visualization using Matplotlib and Seaborn</li>
+      <li>Feature scaling and outlier handling to improve model accuracy</li>
+      <li>Insights for targeted marketing and customer engagement</li>
     </ul>
-    <h4>Impact:</h4>
+
+  <h4>Impact:</h4>
     <ul>
-      <li>Improved user satisfaction by 30%</li>
-      <li>Reduced image processing time from hours to minutes</li>
-      <li>Acquired 200+ active users within first month</li>
+      <li>Enhanced customer segmentation for business strategy planning</li>
+      <li>Improved ability to identify high-value customer groups</li>
+      <li>Automated data analysis pipeline for scalability</li>
     </ul>
   </div>
 </details>
