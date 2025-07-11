@@ -172,7 +172,7 @@
 </h1>
 
 <div align="center">
-<img src="https://img.shields.io/badge/Shri%20Ramswaroop%20College%20of%20Engineering%20and%20Management-FF6600?style=for-the-badge&logo=academia&logoColor=white" alt="Shri Ramswaroop College"/>
+<img src="https://img.shields.io/badge/Shri%20Ramswaroop%20College-000000?style=for-the-badge&logo=academia&logoColor=white" alt="Shri Ramswaroop College"/>
   <p><strong>Bachelor of Technology in Computer Science & Engineering</strong></p>
   <p><em>2021 - 2025 </em></p>
   
