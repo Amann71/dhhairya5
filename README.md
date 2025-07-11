@@ -83,56 +83,24 @@
 </h1>
 
 <div align="center">
+  <!-- Red Cell Network -->
   <a href="https://github.com/Amann71/Red-Cell-Network">
     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Amann71&repo=Red-Cell-Network&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="Red-Cell-Network" />
   </a>
+  
+  <!-- Customer Segmentation -->
   <a href="https://github.com/Amann71/Customer-Segmentation">
     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Amann71&repo=Customer-Segmentation&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="Customer-Segmentation" />
+  </a>
+  
+  <!-- Notes App -->
+  <a href="https://github.com/Amann71/Notes-App">
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Amann71&repo=Notes-App&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="Notes-App" />
   </a>
 </div>
 
 
-<details>
-  <summary><b>Customer Segmentation - Machine Learning Project</b></summary>
-  <div>
-    <div align="center">
-      <a href="https://your-live-demo-link.com" target="_blank">
-        <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
-      </a>
-      <a href="https://github.com/Amann71/Customer-Segmentation" target="_blank">
-        <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
-      </a>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" />
-        <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-      </p>
-    </div>
 
-   <h4>About:</h4>
-    <p>
-      A Machine Learning project that uses clustering algorithms to segment customers based on their purchasing behavior. It helps businesses identify target customer groups for personalized marketing strategies.
-    </p>
-
-  <h4>Key Features:</h4>
-    <ul>
-      <li>Data preprocessing and cleaning for high-quality analysis</li>
-      <li>Implemented K-Means clustering for customer grouping</li>
-      <li>Data visualization using Matplotlib and Seaborn</li>
-      <li>Feature scaling and outlier handling to improve model accuracy</li>
-      <li>Insights for targeted marketing and customer engagement</li>
-    </ul>
-
-  <h4>Impact:</h4>
-    <ul>
-      <li>Enhanced customer segmentation for business strategy planning</li>
-      <li>Improved ability to identify high-value customer groups</li>
-      <li>Automated data analysis pipeline for scalability</li>
-    </ul>
-  </div>
-</details>
 
 
 
@@ -175,6 +143,49 @@
       <li>Improved efficiency in blood bank operations</li>
       <li>Minimized manual errors in inventory management</li>
       <li>Enabled faster communication during emergencies</li>
+    </ul>
+  </div>
+</details>
+
+
+<details>
+  <summary><b>Customer Segmentation - Machine Learning Project</b></summary>
+  <div>
+    <div align="center">
+      <a href="https://your-live-demo-link.com" target="_blank">
+        <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+      </a>
+      <a href="https://github.com/Amann71/Customer-Segmentation" target="_blank">
+        <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+      </a>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white" />
+        <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+      </p>
+    </div>
+
+   <h4>About:</h4>
+    <p>
+      A Machine Learning project that uses clustering algorithms to segment customers based on their purchasing behavior. It helps businesses identify target customer groups for personalized marketing strategies.
+    </p>
+
+  <h4>Key Features:</h4>
+    <ul>
+      <li>Data preprocessing and cleaning for high-quality analysis</li>
+      <li>Implemented K-Means clustering for customer grouping</li>
+      <li>Data visualization using Matplotlib and Seaborn</li>
+      <li>Feature scaling and outlier handling to improve model accuracy</li>
+      <li>Insights for targeted marketing and customer engagement</li>
+    </ul>
+
+  <h4>Impact:</h4>
+    <ul>
+      <li>Enhanced customer segmentation for business strategy planning</li>
+      <li>Improved ability to identify high-value customer groups</li>
+      <li>Automated data analysis pipeline for scalability</li>
     </ul>
   </div>
 </details>
