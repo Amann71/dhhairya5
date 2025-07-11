@@ -118,7 +118,6 @@
       <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-
     </p>
     <a href="https://github.com/Amann71/Red-Cell-Network" target="_blank" style="color: #ffffff; text-decoration: underline;">🔗 View Source Code</a>
   </div>
