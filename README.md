@@ -201,7 +201,7 @@
         <p><em>IBM SkillsBuild</em></p>
       </td>
       <td align="center">
-        <a href="https://drive.google.com/file/d/1iEV-EEvv3c_U-Qj5XxE4NIvYLYl_x2CW/view?usp=sharing"><img src="https://img.shields.io/badge/Machine%20Learning%20with%20Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+        <a href="https://drive.google.com/file/d/1KM3PY9G39Ye4OabT7NYnj-0iy9H0hiqf/view?usp=drivesdk"><img src="https://img.shields.io/badge/Machine%20Learning%20with%20Python-0A66C2?style=for-the-badge&logo=python&logoColor=white" />></a>
         <p>Machine Learning with Pythons</p>
         <p><em>Cognitive Class</em></p>
       </td>
