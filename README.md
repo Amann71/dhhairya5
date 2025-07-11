@@ -180,6 +180,43 @@
 </details>
 
 
+<details>
+  <summary><b>Notes App - Simple Markdown Notes</b></summary>
+  <div>
+    <div align="center">
+      <a href="https://your-live-demo-link.com" target="_blank">
+        <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+      </a>
+      <a href="https://github.com/Amann71/Notes-App" target="_blank">
+        <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+      </a>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" />
+      </p>
+    </div>
+    <h4>About:</h4>
+    <p>
+      A lightweight Notes App built using HTML, CSS, and JavaScript. It allows users to create, edit, and delete notes with Markdown formatting support. All notes are stored persistently in the browser using LocalStorage for offline access.
+    </p>
+    <h4>Key Features:</h4>
+    <ul>
+      <li>Create, edit, and delete notes dynamically</li>
+      <li>Markdown syntax rendering for formatted text</li>
+      <li>Stores data persistently using LocalStorage</li>
+      <li>Responsive and minimalist user interface</li>
+    </ul>
+    <h4>Impact:</h4>
+    <ul>
+      <li>Helps organize personal notes effectively</li>
+      <li>Lightweight and runs directly in the browser</li>
+    </ul>
+  </div>
+</details>
+
+
 <!-- EDUCATION AND CERTIFICATIONS -->
 <h1>
   <img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30px">
