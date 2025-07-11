@@ -282,9 +282,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://x.com/aman_2000s?s=21&t=kOAHE3RD7O-zs7NsoKQuMw" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Aman7" height="30" width="40" />
-  </a>
+  
   <a href="https://www.linkedin.com/in/aman-singh-38348821b//" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
@@ -292,6 +290,9 @@
   
   <a href="https://leetcode.com/u/Aman_Singh71//" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
+  <a href="https://x.com/aman_2000s?s=21&t=kOAHE3RD7O-zs7NsoKQuMw" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Aman7" height="30" width="40" />
   </a>
   
 </p>
