@@ -89,7 +89,7 @@
   <b>🌟 Featured Projects</b>
 </h1>
 
-<div align="center">
+
 
   <!-- ❤️ Heart Disease Prediction -->
   <div align="center" style="display: inline-block; width: 420px; background: linear-gradient(135deg, #ff4b2b, #ff416c); color: white; border-radius: 15px; padding: 20px; margin: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
