@@ -206,7 +206,7 @@
         <p><em>Cognitive Class</em></p>
       </td>
       <td align="center">
-        <a href="https://drive.google.com/file/d/1uFckikgMPcByewWeN9W2keCkUZV-2jN9/view?usp=drivesdk"><img src="https://img.shields.io/badge/Cloud%20Computing-4285F4?style=flat&logo=cloud&logoColor=white" /></a>
+        <a href="https://drive.google.com/file/d/1uFckikgMPcByewWeN9W2keCkUZV-2jN9/view?usp=drivesdk"><img src="https://img.shields.io/badge/Cloud%20Computing-0A66C2?style=for-the-badge&logo=icloud&logoColor=white" /></a>
         <p>Cloud Computing</p>
         <p><em>IBM</em></p>
       </td>
