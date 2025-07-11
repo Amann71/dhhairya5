@@ -71,6 +71,7 @@
       <img src="https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="MS Excel" />
      <img src="https://img.shields.io/badge/UI%2FUX-8E44AD?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX" />
       <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+      <img src="https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
     </td>
   </tr>
 </table>
